@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+1. [Introduction](README.md)
 * Privacy
 * Domain name
 * Email, contacts, calendar
